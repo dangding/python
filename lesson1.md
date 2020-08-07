@@ -5,19 +5,19 @@
 
 ### 下载
 
-- 官网地址：https://www.python.org/，如图：
+- 官网地址：https://www.python.org, 如图：
 
 ![1596727031176](image/l1_main_page.png)
 
 
 
-- windows下载地址：https://www.python.org/downloads/windows/，选择python3.X即可。如图：
+- windows下载地址：https://www.python.org/downloads/windows/, 选择python3.X即可。如图：
 
 ![1596727240977](image/l1_downloads.png)
 
 
 
-- 官方教程地址：https://docs.python.org/zh-cn/3/tutorial/index.html，红框位置，可选择语言和版本，如图：
+- 官方教程地址：https://docs.python.org/zh-cn/3/tutorial/index.html, 红框位置，可选择语言和版本，如图：
 
   ![1596727407636](image/l3_doc.png)
 
