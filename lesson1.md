@@ -13,7 +13,7 @@
 
 - windows下载地址：https://www.python.org/downloads/windows/, 选择python3.X即可。如图：
 
-![1596727240977](image/l1_downloads.png)
+![1596809829848](image/l1_downloads.png)
 
 
 
