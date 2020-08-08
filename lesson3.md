@@ -248,3 +248,6 @@ KeyError: 'address'
 | in     | 如果在指定的序列中找到值，返回True，否则返回False   | >>> a = [1, 2, 3, 4]<br/>>>> 2 in a<br/>True<br/><br/>>>> 5 in a<br/>False |
 | not in | 如果在指定序列中没有找到值，返回True，否则返回False | >>> a = [1, 2, 3, 4]<br/>>>> 3 not in a<br/>False<br/><br/>>>> 5 not in a<br/>True |
 
+
+
+*祝玩得开心！*
